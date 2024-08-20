@@ -76,6 +76,14 @@ To prepare the data for analysis:
 5. **Demographic Analysis Section**: Analyze age and gender distributions.
 6. **Key Insights and Data Storytelling**: Summarize insights and trends with visual storytelling.
 
+### Dashboard:
+[**Dashboard Link**](https://github.com/ShouvikSaha504/Adverse-Event-Reporting-in-the-Food-and-Cosmetics-Industry/blob/3903cb4498f60d1f03b2060f2776246c2b15ef00/Dashboard.pbix)
+
+### Dashboard Snap:
+![Dashboard Snap](https://github.com/user-attachments/assets/fde0e86c-72ee-402c-a863-7a7d72915a58)
+
+
+
 ## Insights & Actionable Items
 
 The preprocessed dataset contains approximately **34,000 rows** and **18 columns**. Key insights from the Power BI dashboard include:
