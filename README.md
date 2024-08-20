@@ -19,7 +19,7 @@ The primary objectives of this analysis were to:
 
 ### Data Source
 
-The dataset used for this analysis is from the [CAERS_ASCII_2004_2017Q2.csv](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1e1bc70-9ede-4c69-84fd-42c5605803a0/f005446a-14f3-426e-b31e-03df53eb3d89/CAERS_ASCII_2004_2017Q2.csv), which includes detailed records from the FDA's adverse event reporting system covering:
+The dataset used for this analysis is from the [CAERS_ASCII_2004_2017Q2.csv](https://github.com/ShouvikSaha504/Adverse-Event-Reporting-in-the-Food-and-Cosmetics-Industry/blob/5dd27c6b31c6786cd2aa771ae5278ee8efb08a1c/CAERS_ASCII_2004_2017Q2.csv), which includes detailed records from the FDA's adverse event reporting system covering:
 
 1. **RA_Report #**: Unique identifier for each adverse event report.
 2. **RA_CAERS Created Date**: Date when the report was entered into the CAERS database.
@@ -87,5 +87,5 @@ These findings suggest a need for targeted education programs, particularly for 
 
 ---
 
-For further details or to access the project files, please refer to the [dataset link](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1e1bc70-9ede-4c69-84fd-42c5605803a0/f005446a-14f3-426e-b31e-03df53eb3d89/CAERS_ASCII_2004_2017Q2.csv) or contact me directly.
+For further details or to access the project files, please refer to the [dataset link]([https://prod-files-secure.s3.us-west-2.amazonaws.com/d1e1bc70-9ede-4c69-84fd-42c5605803a0/f005446a-14f3-426e-b31e-03df53eb3d89/CAERS_ASCII_2004_2017Q2.csv](https://github.com/ShouvikSaha504/Adverse-Event-Reporting-in-the-Food-and-Cosmetics-Industry/blob/5dd27c6b31c6786cd2aa771ae5278ee8efb08a1c/CAERS_ASCII_2004_2017Q2.csv)) or contact me directly.
 
