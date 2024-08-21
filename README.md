@@ -1,4 +1,4 @@
-# Adverse-Event-Reporting-in-the-Food-and-Cosmetics-Industry
+# FDA Adverse-Event-Reporting-in-the-Food-and-Cosmetics-Industry
 A Case Study on Adverse Event Reporting in the Food and Cosmetics Industry by FDA - Power BI
 
 
