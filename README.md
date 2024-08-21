@@ -43,28 +43,12 @@ To prepare the data for analysis:
 
 ### Part 1: Data Cleaning, Modeling, and DAX in Power BI
 
-1. **Data Importing and Preliminary Analysis**: Import and examine the dataset in Power BI.
-2. **Handling Missing Values**: Address missing values and apply appropriate strategies.
-3. **Data Type Standardization**: Ensure correct data types for dates and numerical fields.
-4. **Product Role Categorization**: Analyze distribution based on product roles.
-5. **FDA Industry Analysis**: Group and analyze data by FDA industry codes.
-6. **Age Group Analysis**: Create and analyze age groups from age data.
-7. **Gender-Based Analysis**: Examine adverse event reports by gender.
-8. **Adverse Event Start Date Analysis**: Identify trends over time.
-9. **Outcome Categorization**: Categorize and analyze adverse event outcomes.
-10. **Symptom Frequency Analysis**: Analyze the frequency of reported symptoms.
-11. **Correlation between Age and Symptom Types**: Investigate correlations using DAX.
-12. **Industry and Outcome Relationship**: Examine relationships between industry codes and outcomes.
-13. **Time Series Analysis of Reports**: Identify seasonal trends in report submissions.
-14. **DAX for Advanced Age Analysis**: Calculate average, median, and mode of ages at which events occur.
-15. **Product Name Analysis**: Identify commonly reported products.
-16. **Geographical Distribution (If Applicable)**: Analyze distribution by region, if available.
-17. **Advanced DAX: Report Frequency Calculation**: Calculate report frequency per month or year.
-18. **Symptom Severity Index**: Create an index for symptom severity.
-19. **Report Duplication Analysis**: Identify and handle duplicate reports.
-20. **Predictive Modeling for Adverse Event Risk**: Develop a predictive model using DAX.
-21. **Complex Symptom Pattern Analysis**: Analyze patterns in symptom co-occurrence using nested DAX functions.
-22. **Advanced Outcome Prediction Model**: Create a model to estimate the likelihood of severe outcomes.
+In Part 1 of the analysis, the focus is on data cleaning, modeling, and the application of DAX in Power BI. The process begins with importing and examining the dataset, addressing missing values, and ensuring data type standardization for dates and numerical fields. Product roles are categorized to analyze their distribution, and FDA industry codes are grouped for detailed analysis. Age and gender data are examined to create relevant age groups and understand gender-based trends. The adverse event start dates are analyzed to identify temporal trends, and outcomes are categorized for further analysis. Symptom frequency is reviewed, and correlations between age and symptom types are investigated using DAX. Relationships between industry codes and outcomes are explored, while time series analysis helps identify seasonal trends. Advanced DAX techniques are used to calculate age statistics, report frequencies, and symptom severity. Product names are analyzed to identify common issues, and if geographical data is available, regional distribution is examined. The analysis also includes detecting and handling duplicate reports, developing predictive models for adverse event risks, and creating complex models for symptom patterns and outcome predictions using nested DAX functions.
+
+
+
+
+
 
 ### Part 2: Dashboard Building
 
@@ -91,6 +75,10 @@ The preprocessed dataset contains approximately **34,000 rows** and **18 columns
 - **Age group analysis**: The **36-50 years** age group had the highest frequency of adverse events.
 
 These findings suggest a need for targeted education programs, particularly for females in the 36-50 age group, to improve awareness and safety.
+
+## Conclusion
+
+In conclusion, the analysis of adverse events in the food and cosmetics industry, utilizing the CAERS dataset and Power BI, has provided valuable insights into the patterns and trends of reported incidents. The comprehensive data cleaning and modeling process, combined with advanced DAX calculations, has enabled a thorough examination of key factors such as product roles, age and gender demographics, and symptom frequencies. The findings reveal significant trends, including disproportionate impacts on certain demographics and frequent issues associated with specific products. By identifying correlations between age, symptoms, and industry codes, and by analyzing seasonal variations in report submissions, the project highlights critical areas for targeted intervention and risk management. The development of predictive models and advanced analyses further equips industry stakeholders with actionable insights to enhance safety standards and regulatory compliance. Ultimately, this analysis underscores the importance of ongoing vigilance and data-driven approaches in safeguarding public health within the food and cosmetics sectors.
 
 ---
 
